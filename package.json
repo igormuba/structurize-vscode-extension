@@ -1,6 +1,7 @@
 {
   "name": "structurize",
   "displayName": "Structurize",
+  "icon": "images/structurize.png",
   "description": "Copy folder structures to plain text",
   "version": "0.0.1",
   "engines": {
